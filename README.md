@@ -1,1 +1,2 @@
 The NFT collection incorporates a whitelist contract that grants specific privileges to participants. Individuals whose addresses are whitelisted will have the ability to mint NFTs without any cost. However, those who are not included in the whitelist will be required to pay a fee of 0.1 ETH (sepolia) in order to mint an NFT.
+Contracts are verified on etherscan go to addresses.txt for verification
