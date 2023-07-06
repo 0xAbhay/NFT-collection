@@ -1,13 +1,1 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+The NFT collection incorporates a whitelist contract that grants specific privileges to participants. Individuals whose addresses are whitelisted will have the ability to mint NFTs without any cost. However, those who are not included in the whitelist will be required to pay a fee of 0.1 ETH (sepolia) in order to mint an NFT.
